@@ -3,7 +3,7 @@
 ## Contact Information
 - **Location:** Shah Alam, Selangor
 - **Phone:** +60 19-512 0369
-- **Email:** ahmdiman@gmail.com
+- **Email:** ahmdiman.ali@gmail.com
 - **LinkedIn:** [linkedin.com/in/muhammadimanali](https://linkedin.com/in/muhammadimanali)
 - **GitHub:** [github.com/muhammadimanali](https://github.com/muhammadimanali)
 
