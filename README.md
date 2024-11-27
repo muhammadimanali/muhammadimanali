@@ -31,12 +31,12 @@ Seri Kembangan, Selangor
 
 ### **Bachelor of Science in Physics with Honours**  
 Universiti Teknologi MARA (UiTM)  
-*Oct 2019 – February 2023*  
+*Sep 2019 – Dec 2023*  
 Jengka, Pahang
 
 ### **Foundation in Science**  
 Universiti Teknologi MARA (UiTM)  
-*September 2018 – April 2019*  
+*June 2018 – April 2019*  
 Dengkil, Selangor
 
 ## Certifications
