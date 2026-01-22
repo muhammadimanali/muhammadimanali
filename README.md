@@ -1,64 +1,79 @@
-# Muhammad Iman Ali - Resume
+MUHAMMAD IMAN ALI
+Cloud Engineer | Cloud Infrastructure & Security
 
-## Contact Information
-- **Location:** Shah Alam, Selangor
-- **Phone:** +60 19-512 0369
-- **Email:** ahmdiman.ali@gmail.com
-- **LinkedIn:** [linkedin.com/in/muhammadimanali](https://linkedin.com/in/muhammadimanali)
-- **GitHub:** [github.com/muhammadimanali](https://github.com/muhammadimanali)
+Shah Alam, Selangor, Malaysia
+📧 ahmdiman.ali@gmail.com | 📱 +60 19-512 0369 | 💼 LinkedIn Profile | 🔗 GitHub/Portfolio
 
-## Experience
+PROFESSIONAL SUMMARY
+Results-driven Cloud Engineer with 2.5 years of progressive experience in cloud operations, infrastructure management, and IT support. Proven expertise in managing enterprise cloud environments across AWS, Azure, and OCI platforms. Skilled in implementing security controls, automating cloud operations, and ensuring high availability for mission-critical systems. Strong foundation in network security, virtualization, and container orchestration. Seeking to leverage hands-on cloud experience and security certifications to contribute to cloud infrastructure, platform engineering, or cloud security initiatives.
 
-### **Cloud Support Engineer** | TIME dotCom Berhad  
-*August 2024 – Present*  
-Shah Alam, Selangor
-- Provide first-level support for cloud services, resolving issues like account setup, login problems, and service access.
-- Managed incoming support requests via phone, email, and chat.
-- Utilized a ticketing system to log and track incidents, adhering to SLAs.
-- Participated in regular training sessions to stay updated on cloud services.
-- Collaborated with higher-level support teams to escalate complex issues.
+TECHNICAL SKILLS
+Cloud Platforms: AWS, Azure, OCI (Oracle Cloud Infrastructure), TIME Cloud Services
 
-### **IT Technical Support** | EISmartwork Sdn. Bhd.  
-*August 2023 – July 2024*  
-Seri Kembangan, Selangor
-- Provided first-level support to users, resolving technical issues efficiently.
-- Troubleshot issues with Windows 10, Server 2008, and Server 2019.
-- Managed Active Directory tasks (user account creation, password resets).
-- Diagnosed and resolved networking issues (connectivity, DNS, DHCP).
-- Restored PCs affected by ransomware attacks, ensuring minimal data loss.
+Operating Systems: Linux, Windows Server
 
-## Education
+Containerization & Orchestration: Docker, Kubernetes, KIND
 
-### **Bachelor of Science in Physics with Honours**  
-Universiti Teknologi MARA (UiTM)  
-*Sep 2019 – Dec 2023*  
-Jengka, Pahang
+Networking & Security: VPC, Security Groups, Firewall, WAF (Web Application Firewall), vFW, SSL VPN, OpenVPN, OPNsense, NAT Gateway, Network ACLs
 
-### **Foundation in Science**  
-Universiti Teknologi MARA (UiTM)  
-*June 2018 – April 2019*  
-Dengkil, Selangor
+Monitoring & Management: Cacti, Nagios
 
-## Certifications
-- **AZ-900:** Microsoft Certified: Azure Fundamentals
-- **DP-900:** Microsoft Certified: Azure Data Fundamentals
-- **FCF:** Fortinet Certified Fundamentals Cybersecurity
+Virtualization: Proxmox VE
 
-## Projects
+Scripting & Automation: Bash, Git
 
-### **Automated Telegram Bot for Blood Donation Updates**  
-*Python, Amazon Web Services*  
-*January 2024*
-- Developed a Telegram bot that sends daily updates on blood donation counts.
-- Deployed the bot on AWS EC2, ensuring uptime.
-- Used cron jobs to schedule data retrieval via cURL from a public GitHub repository.
+Tools & Technologies: Telegram Bot API, NAS Backup Solutions
 
-### **Hosted VPN Server using CloudConnexa**  
-*CloudConnexa, Networking, VPN*  
-*August 2024*
-- Set up a VPN server using CloudConnexa for enhanced network security.
-- Gained experience in cloud networking and VPN protocols.
+PROFESSIONAL EXPERIENCE
+Cloud Engineer (Cloud Support Engineer)
+TIME dotCom Berhad | August 2024 – Present
 
-## Technical Skills
-- **Developer Tools:** Git, Visual Studio Code
-- **Technologies/Frameworks:** Linux, CloudConnexa, GitHub, Networking Protocols
+Delivered Level 1 cloud operations support for enterprise customers, managing virtual servers, scaling resources (vCPU, vRAM, storage), and ensuring high availability.
+Configured and troubleshot network security controls, including virtual firewall (vFW), Web Application Firewall (vWAF), and SSL VPN access.
+Performed backup, snapshot, and restoration operations for customer virtual servers.
+Actively monitored virtual and physical server health, identifying and escalating connectivity and performance issues.
+Generated customer-facing reports including server health and WAF activity, improving transparency and operational trust.
+Managed cloud portal user administration, including account creation and password resets.
+IT Executive
+EISmartwork Sdn Bhd | August 2023 – July 2024 (Contract)
+
+Provided first-level IT support to end users, resolving network, server access, endpoint, and printer issues.
+Managed user account provisioning and access control for internal servers and systems.
+Prepared and configured end-user devices, including OS installation, formatting, and setup.
+Performed server health checks and configured NAS backup servers for secure file sharing.
+EDUCATION
+Bachelor of Science (Hons) Physics
+Universiti Teknologi MARA (UiTM) | September 2019 – December 2023 | GPA: 3.51/4.0
+
+Foundation of Science
+Universiti Teknologi MARA (UiTM) | June 2018 – April 2019 | GPA: 3.69/4.0
+
+CERTIFICATIONS & TRAINING
+Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+Microsoft Certified: Azure Fundamentals
+Microsoft Certified: Azure Data Fundamentals
+Fortinet Certified Associate – Cybersecurity
+Fortinet Certified Fundamentals – Cybersecurity
+TECHNICAL PROJECTS
+Blood Donation Analysis – Cloud Data Automation
+Tools: AWS EC2, Telegram Bot, Bash, Linux, Git
+
+Analyzed blood donation patterns using MoH Malaysia's public dataset.
+Automated daily data retrieval and reporting with Bash scripts, sending updates via Telegram Bot.
+Virtual Private Cloud (Home Lab)
+Tools: Proxmox VE, Linux, Windows, VPN, OpenVPN, OPNsense, Bash
+
+Virtualized hardware using Proxmox VE and created multiple virtual servers with internal connectivity.
+Configured OPNsense firewall and OpenVPN for secure remote server access.
+Established bridged internet connectivity for virtual lab servers.
+Learning Cloud-Native Technologies
+Tools: Kubernetes, Docker, KIND
+
+Configured Kubernetes clusters for container orchestration with high availability.
+Deployed and managed cloud-native workloads for hands-on practice with orchestration and scalability.
+AWS Two-Tier Deployment Lab (Personal Project)
+Tools: AWS VPC, Subnets, Route Tables, Security Groups, NAT Gateway
+
+Built custom AWS environment with public/private subnets and routing.
+Implemented Security Groups, Network ACLs, and NAT Gateway to manage traffic and secure multi-tier architecture.
+References available upon request
